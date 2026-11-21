@@ -7,9 +7,9 @@ module com.example.cincuentazo {
 
     // Agregar cada línea cuando el paquete tenga su primera clase
     // (Java no deja exportar un paquete vacío):
-    // exports com.example.cincuentazo.model.card;
-    // exports com.example.cincuentazo.model.deck;
-    // exports com.example.cincuentazo.model.exceptions;
+    exports com.example.cincuentazo.model.card;
+    exports com.example.cincuentazo.model.deck;
+    exports com.example.cincuentazo.model.exceptions;
     // exports com.example.cincuentazo.model.player;
     // exports com.example.cincuentazo.model.game;
     // exports com.example.cincuentazo.model.threads;
