@@ -1,3 +1,6 @@
+/**
+ * Módulo de la aplicación Cincuentazo.
+ */
 module com.example.cincuentazo {
     requires javafx.controls;
     requires javafx.fxml;
